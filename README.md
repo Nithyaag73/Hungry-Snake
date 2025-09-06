@@ -36,11 +36,6 @@ Add score counter.
 Add restart/play again option.
 
 
-## 🖼️ Demo
-
-# 🐍 Snake Game  
-
-## 🖼️ Demo  
 
 ## 🖼️ Demo
 
