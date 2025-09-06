@@ -38,5 +38,13 @@ Add restart/play again option.
 
 ## 🖼️ Demo
 
-![Hungry Snake](Recording 2025-09-06 124317.gif)
+# 🐍 Snake Game  
+
+## 🖼️ Demo  
+
+## 🖼️ Demo
+
+![Snake Game Demo](demo.gif)
+
+
 
