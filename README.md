@@ -34,12 +34,3 @@ Game over detection for self-bite and wall collision.
 Add difficulty levels (Easy, Medium, Hard).
 Add score counter.
 Add restart/play again option.
-
-
-
-## 🖼️ Demo
-
-![Snake Game Demo](demo.gif)
-
-
-
