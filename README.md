@@ -35,5 +35,8 @@ Add difficulty levels (Easy, Medium, Hard).
 Add score counter.
 Add restart/play again option.
 
-Recording 2025-09-06 124317.gif
+
+## 🖼️ Demo
+
+![Hungry Snake](Recording 2025-09-06 124317.gif)
 
