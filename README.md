@@ -1,4 +1,4 @@
-🐍 Hungry Snake
+🐍 Hungry Snake !
 
 A classic Snake Game built in Javascript, html, CSS
 In this game, you control a snake that moves around the board, eats apples, and grows longer. The challenge is to survive as long as possible without colliding with yourself or the walls.
